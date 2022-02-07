@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Button
+comment1.params=l\ w\ h\ a
+comment1.target=Button(java.awt.Point,\ int,\ int,\ boolean)
+comment2.params=
+comment2.target=java.awt.Point\ getLoc()
+comment3.params=
+comment3.target=int\ getWidth()
+comment4.params=
+comment4.target=int\ getHeight()
+comment5.params=
+comment5.target=boolean\ getActive()
+comment6.params=a
+comment6.target=void\ setActive(boolean)
+comment7.params=l
+comment7.target=void\ setLoc(java.awt.Point)
+comment8.params=w
+comment8.target=void\ setWidth(int)
+comment9.params=h
+comment9.target=void\ setHeight(int)
+numComments=10
